@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Artificail Intilligent**.
 - 🌱 I’m currently working as a **Machine Learning Engineer**. 
 - 💞️ I’m looking to collaborate on **Deep Learning**
-- 📫 How to reach me [muhammadtayyab](muhammadtayyab.se@gmail.com), [Linkedin](https://www.linkedin.com/in/muhammad-tayyab-32a3641aa/)
+- 📫 How to reach me [muhammadtayyab](muhammadtayyab.se@gmail.com)
 
 [![Muhammad Tayyab GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTayyab-SE&show_icons=true&hide=prs&theme=radical)]
 <!---
