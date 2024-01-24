@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadTayyab
 - 👀 I’m interested in **Artificail Intilligent**.
-- 🌱 I’m currently working as a **Machine Learning Engineer**. 
+- 🌱 I’m currently working as a **Data/Machine Learning Engineer**. 
 - 💞️ I’m looking to collaborate on **Deep Learning**
 - 📫 How to reach me [muhammadtayyab](muhammadtayyab.se@gmail.com)
 
